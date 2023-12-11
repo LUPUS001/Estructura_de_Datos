@@ -15,7 +15,7 @@ class GFG {
 
         add.add("primero");
         add.add("segundo");
-        add.add("tercero");
+
 
         List<String> al = new ArrayList<>();
 
